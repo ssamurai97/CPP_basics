@@ -1,0 +1,3 @@
+/Users/kuchlong/CPP_basics/reduced_resources/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kuchlong/CPP_basics/reduced_resources/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kuchlong/CPP_basics/reduced_resources/src/cmake-build-debug/CMakeFiles/main.dir

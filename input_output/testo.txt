@@ -1,0 +1,1 @@
+kore wa testo desu  : writing to a file in c++ 

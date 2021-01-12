@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libMESSAGE.a  CMakeFiles/task-objs.dir/TimeStamp.cpp.o CMakeFiles/task-objs.dir/Task.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libMESSAGE.a

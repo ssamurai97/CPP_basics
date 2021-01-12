@@ -1,0 +1,4 @@
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/build/CMakeFiles/rebuild_cache.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/build/CMakeFiles/edit_cache.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/build/CMakeFiles/grade.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/build/CMakeFiles/gradebook.dir

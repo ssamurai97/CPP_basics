@@ -1,0 +1,6 @@
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/rebuild_cache.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/task-static.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/edit_cache.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/make_task.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/task-shared.dir
+/Users/kuchlong/CPP_basics/UserDefTypes/task/build/CMakeFiles/task-objs.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kuchlong/CPP_basics/thread/basic_thread/extra.h
+string_view
+-
+
+/Users/kuchlong/CPP_basics/thread/basic_thread/main.cpp
+thread
+-
+vector
+-
+string
+-
+iostream
+-
+string_view
+-
+future
+-
+extra.h
+/Users/kuchlong/CPP_basics/thread/basic_thread/extra.h
+

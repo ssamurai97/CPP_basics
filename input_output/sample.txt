@@ -1,0 +1,5 @@
+this is a sample text file for 
+reading input.
+reading this too
+and this one as well.
+

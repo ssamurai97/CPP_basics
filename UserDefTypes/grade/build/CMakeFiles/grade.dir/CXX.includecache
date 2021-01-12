@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/Grade.h
+string
+-
+
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/main.cpp
+Grade.h
+/Users/kuchlong/CPP_basics/UserDefTypes/grade/Grade.h
+

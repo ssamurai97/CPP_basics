@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kuchlong/CPP_basics/UserDefTypes/task/Task.cpp
+task.hpp
+/Users/kuchlong/CPP_basics/UserDefTypes/task/task.hpp
+
+/Users/kuchlong/CPP_basics/UserDefTypes/task/task.hpp
+iostream
+-
+ctime
+-
+fstream
+-
+cstring
+-
+timestamp.hpp
+/Users/kuchlong/CPP_basics/UserDefTypes/task/timestamp.hpp
+
+/Users/kuchlong/CPP_basics/UserDefTypes/task/timestamp.hpp
+iostream
+-
+ctime
+-
+string
+-
+
