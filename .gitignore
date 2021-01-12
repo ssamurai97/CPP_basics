@@ -6,3 +6,5 @@ build/*
 *.json
 .vscode/
 ./boost_stuff/regular_expr/cmake-build-debug
+.DS_Store
+.idea
