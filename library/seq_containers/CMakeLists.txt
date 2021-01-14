@@ -18,3 +18,6 @@ add_executable(remove_e remove_element.cpp myutil.hpp)
 
 add_executable(sort sorta_vector.cpp )
 
+add_executable(array array_demo.cpp)
+
+add_executable(planets list_demo.cpp)
